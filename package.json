@@ -1,0 +1,16 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "This is a demo News API application",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open"
+  },
+  "keywords": [],
+  "author": "Adolfo Nava",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
